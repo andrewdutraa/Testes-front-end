@@ -2,7 +2,7 @@ import {Given, When, And, Then} from 'cypress-cucumber-preprocessor/steps'
 
 Given("que estou na página inicial da Narwal", () =>{
     cy.visit("https://www.narwalsistemas.com.br/")
-})
+}) 
 
 When("eu clico no menu Blog", () =>{
     cy.get('[class*="menu-item"]').contains('Blog').click();
