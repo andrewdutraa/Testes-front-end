@@ -26,4 +26,4 @@ Execute o comando `npx cypress run`.
 
 ### Modo interativo
 
-Execute o comando `npx cypress open` para abrir a Cypress e executar.
+Execute o comando `npx cypress open` para abrir o Cypress e executar.
